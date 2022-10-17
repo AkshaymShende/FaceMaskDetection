@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NoMask_Annotated_Images</folder>
+	<filename>2075.jpg</filename>
+	<path>D:\ML-Projects\DATA 1\NoMask_Annotated_Images\2075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>214</ymin>
+			<xmax>668</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>
